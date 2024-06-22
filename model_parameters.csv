@@ -1,0 +1,17 @@
+Parameter,Value
+Steps,1000
+Number of Train Epochs,2
+Per Device Train Batch Size,4
+Gradient Accumulation Steps,1
+Optimizer,paged_adamw_32bit
+Save Steps,25
+Logging Steps,25
+Learning Rate,0.0002
+Weight Decay,0.001
+FP16,0
+BF16,1
+Max Grad Norm,0.3
+Max Steps,-1
+Warmup Ratio,0.03
+Group by Length,1
+LR Scheduler Type,constant
