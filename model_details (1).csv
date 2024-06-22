@@ -1,6 +1,0 @@
-Attribute,Value
-Model Name,Llama-2-7B-finetuning-ophtalmology
-Model Size,6.74B params
-Tensor Type,F32
-Languages Supported,"French, English"
-Base Model,Llama-2-7b-chat-hf
