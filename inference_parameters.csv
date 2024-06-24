@@ -1,0 +1,2 @@
+Do_sample,max_new_tokens,temperature,top_k,top_p,num_return_sequences
+True,100,0.7,50,0.95,1
