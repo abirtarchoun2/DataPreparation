@@ -1,0 +1,2 @@
+lora_alpha,lora_dropout,r,bias,task_type,target_modules
+16,0.1,64,none,CAUSAL_LM,"['q_proj', 'k_proj', 'v_proj', 'o_proj', 'gate_proj']"
